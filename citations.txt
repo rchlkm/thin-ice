@@ -1,0 +1,31 @@
+citations
+
+-code-
+data.py and helper.py 
+Source Code from Luke Arntson (cthulhu32) 
+    arcade game "Death Tower" from pyweek.org 
+    (https://pyweek.org/e/Cthulhu32_v2/)
+
+
+-images-
+puffle.gif	(https://sites.google.com/site/cpcheatswithmc/puffles)
+water.gif	(http://cleanclipart.com/ocean-clip-art/)
+coin.gif	(http://cliparts.co/gold-coins-clipart)
+lock.gif 	(http://www.freeclipartnow.com/construction/tools/locks/)
+key.gif		(http://www.shutterstock.com/pic-14442529/stock-photo-gleaming-golden-		car-key-isolated-on-white.html)
+
+
+-audio-
+all audio is downloaded from http://www.playonloop.com/
+in the music loop category of video games
+
+introMusic.wav - snowy hill
+play1.wav - floating town 
+play2.wav - code geek
+play3.wav - cactus land
+play4.wav - yellow copter
+play5.wav - tower climb
+play6.wav - rocket man
+youlose.wav - spirits dance
+youlose2.wav - mad plans
+youwin.wav - green town
